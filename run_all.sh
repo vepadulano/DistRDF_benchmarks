@@ -9,7 +9,6 @@ NTESTS=1
 
 mkdir -p $TIMES_DIR
 
-# df102
 for benchmark_name in df102_NanoAODDimuonAnalysis df103_NanoAODHiggsAnalysis df104_HiggsToTwoPhotons
 do
   echo "Running $benchmark_name"
