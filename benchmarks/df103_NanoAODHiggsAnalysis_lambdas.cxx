@@ -11,6 +11,7 @@
 #include <Math/GenVector/PtEtaPhiM4D.h>
 #include "TStyle.h"
 #include <string>
+#include <TStopwatch.h>
 
 using namespace ROOT::VecOps;
 using RNode = ROOT::RDF::RNode;
@@ -200,8 +201,7 @@ RNode reco_higgs_to_4el(RNode df)
 
 // Plot invariant mass for signal and background processes from simulated events
 // overlay the measured data.
-template <typename T>
-void plot(T sig, T bkg, T data, const std::string &x_label, const std::string &filename)
+void plot(TH1D &h_sig, TH1D &h_bkg, TH1D &h_data, const std::string &x_label, const std::string &filename)
 {
    // Canvas and general style options
    gStyle->SetOptStat(0);
@@ -211,9 +211,7 @@ void plot(T sig, T bkg, T data, const std::string &x_label, const std::string &f
 
    // Get signal and background histograms and stack them to show Higgs signal
    // on top of the background process
-   auto h_sig = *sig;
-   auto h_bkg = *bkg;
-   auto h_cmb = *(TH1D*)(sig->Clone());
+   TH1D h_cmb{h_sig};
    h_cmb.Add(&h_bkg);
    h_cmb.SetTitle("");
    h_cmb.GetXaxis()->SetTitle(x_label.c_str());
@@ -229,13 +227,13 @@ void plot(T sig, T bkg, T data, const std::string &x_label, const std::string &f
    h_bkg.SetLineColor(kBlack);
    h_bkg.SetFillColor(kAzure - 9);
 
-   // Get histogram of data points
-   auto h_data = *data;
+
    h_data.SetLineWidth(1);
    h_data.SetMarkerStyle(20);
    h_data.SetMarkerSize(1.0);
    h_data.SetMarkerColor(kBlack);
    h_data.SetLineColor(kBlack);
+
 
    // Draw histograms
    h_cmb.DrawClone("HIST");
@@ -324,9 +322,37 @@ void run()
    auto df_h_data_4el = df_data_4el_reco.Define("weight", []() { return 1.0; }, {})
                            .Histo1D<float, double>({"h_data_4el", "", nbins, 70, 180}, "H_mass", "weight");
 
+   // Trigger event loops and retrieve histograms
+   TStopwatch watch;
+   auto signal_4mu = df_h_sig_4mu.GetValue();
+   double elapsed_sig_4mu{watch.RealTime()};
+   watch.Start();
+   auto background_4mu = df_h_bkg_4mu.GetValue();
+   double elapsed_bkg_4mu{watch.RealTime()};
+   watch.Start();
+   auto data_4mu = df_h_data_4mu.GetValue();
+   double elapsed_data_4mu{watch.RealTime()};
+
+   watch.Start();
+   auto signal_4el = df_h_sig_4el.GetValue();
+   double elapsed_sig_4el{watch.RealTime()};
+   watch.Start();
+   auto background_4el = df_h_bkg_4el.GetValue();
+   double elapsed_bkg_4el{watch.RealTime()};
+   watch.Start();
+   auto data_4el = df_h_data_4el.GetValue();
+   double elapsed_data_4el{watch.RealTime()};
+
+   std::cout << "Event loop df_sig_4l: " << std::fixed << std::setprecision(2) << elapsed_sig_4mu << " s\n";
+   std::cout << "Event loop df_bkg_4mu: " << std::fixed << std::setprecision(2) << elapsed_bkg_4mu << " s\n";
+   std::cout << "Event loop df_data_doublemu: " << std::fixed << std::setprecision(2) << elapsed_data_4mu << " s\n";
+   std::cout << "Event loop df_bkg_4el: " << std::fixed << std::setprecision(2) << elapsed_bkg_4el << " s\n";
+   std::cout << "Event loop df_data_doubleel: " << std::fixed << std::setprecision(2) << elapsed_data_4el << " s\n";
+
    // Produce histograms for different channels and make plots
-   plot(df_h_sig_4mu, df_h_bkg_4mu, df_h_data_4mu, "m_{4#mu} (GeV)", "higgs_4mu.pdf");
-   plot(df_h_sig_4el, df_h_bkg_4el, df_h_data_4el, "m_{4e} (GeV)", "higgs_4el.pdf");
+   plot(signal_4mu, background_4mu, data_4mu, "m_{4#mu} (GeV)", "higgs_4mu.pdf");
+   plot(signal_4el, background_4el, data_4el, "m_{4e} (GeV)", "higgs_4el.pdf");
+
 }
 
 int main() {
