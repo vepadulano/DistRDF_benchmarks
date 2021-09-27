@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PYTHON=`which python3`
-PYTHONPATH=benchmarks:$PYTHONPATH
+export PYTHONPATH=benchmarks:$PYTHONPATH
 
 NPARTITIONS=1
 TIMES_DIR=time_results
