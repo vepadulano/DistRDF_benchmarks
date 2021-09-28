@@ -59,15 +59,15 @@ void run() {
         // Select the events for the analysis
 
         // Apply preselection cut on photon trigger
-        auto df_trigP = df.Filter([](bool trigP) { return trigP; }, {"trigP"}, "Photon trigger");
+        auto df_trigP = df.Filter([](bool trigP) { return trigP; }, {"trigP"});
 
         // Find two good muons with tight ID, pt > 25 GeV and not in the transition region between barrel and encap
         auto df_2gp = df_trigP.Define("goodphotons", [](rvec_b photon_isTightID, rvec_f photon_pt, rvec_f photon_eta) { return photon_isTightID && (photon_pt > 25000) && (abs(photon_eta) < 2.37) && ((abs(photon_eta) < 1.37) || (abs(photon_eta) > 1.52)); }, { "photon_isTightID", "photon_pt", "photon_eta" } )
-                              .Filter([](rvec_i goodphotons) { return Sum(goodphotons) == 2; }, {"goodphotons"}, "Good photons");
+                              .Filter([](rvec_i goodphotons) { return Sum(goodphotons) == 2; }, {"goodphotons"});
 
         // Take only isolated photons
-        auto df_isolated = df_2gp.Filter([](rvec_f photon_ptcone30, rvec_f photon_pt, rvec_i goodphotons) { return Sum(photon_ptcone30[goodphotons] / photon_pt[goodphotons] < 0.065) == 2; }, { "photon_ptcone30", "photon_pt", "goodphotons" }, "Isolated 1")
-                                 .Filter([](rvec_f photon_etcone20, rvec_f photon_pt, rvec_i goodphotons) { return Sum(photon_etcone20[goodphotons] / photon_pt[goodphotons] < 0.065) == 2; }, { "photon_etcone20", "photon_pt", "goodphotons" }, "Isolated 2");
+        auto df_isolated = df_2gp.Filter([](rvec_f photon_ptcone30, rvec_f photon_pt, rvec_i goodphotons) { return Sum(photon_ptcone30[goodphotons] / photon_pt[goodphotons] < 0.065) == 2; }, { "photon_ptcone30", "photon_pt", "goodphotons" })
+                                 .Filter([](rvec_f photon_etcone20, rvec_f photon_pt, rvec_i goodphotons) { return Sum(photon_etcone20[goodphotons] / photon_pt[goodphotons] < 0.065) == 2; }, { "photon_etcone20", "photon_pt", "goodphotons" });
 
         // Define a new column with the invariant mass and perform final event selection
 
@@ -75,9 +75,9 @@ void run() {
         auto df_im = df_isolated.Define("m_yy", [](rvec_f photon_pt, rvec_f photon_eta, rvec_f photon_phi, rvec_f photon_E, rvec_i goodphotons) { return ComputeInvariantMass(photon_pt[goodphotons], photon_eta[goodphotons], photon_phi[goodphotons], photon_E[goodphotons]); }, {"photon_pt", "photon_eta", "photon_phi", "photon_E", "goodphotons"});
 
         // Make additional kinematic cuts and select mass window
-        auto df_kmc = df_im.Filter([](rvec_f photon_pt, rvec_i goodphotons, float m_yy) { return photon_pt[goodphotons][0] / 1000.0 / m_yy > 0.35; }, {"photon_pt", "goodphotons", "m_yy"}, "Kinematic 1")
-                           .Filter([](rvec_f photon_pt, rvec_i goodphotons, float m_yy) { return photon_pt[goodphotons][1] / 1000.0 / m_yy > 0.25; }, {"photon_pt", "goodphotons", "m_yy"}, "Kinematic 2")
-                           .Filter([](float m_yy) { return m_yy > 105 && m_yy < 160; }, {"m_yy"}, "Mass window");
+        auto df_kmc = df_im.Filter([](rvec_f photon_pt, rvec_i goodphotons, float m_yy) { return photon_pt[goodphotons][0] / 1000.0 / m_yy > 0.35; }, {"photon_pt", "goodphotons", "m_yy"})
+                           .Filter([](rvec_f photon_pt, rvec_i goodphotons, float m_yy) { return photon_pt[goodphotons][1] / 1000.0 / m_yy > 0.25; }, {"photon_pt", "goodphotons", "m_yy"})
+                           .Filter([](float m_yy) { return m_yy > 105 && m_yy < 160; }, {"m_yy"});
 
         // Book histogram of the invariant mass with this selection
         hists[name] = df_kmc.Histo1D<float,float>({ name, "Diphoton invariant mass; m_{#gamma#gamma} [GeV];Events", 30, 105, 160 }, "m_yy", "weight");
