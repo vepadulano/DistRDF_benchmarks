@@ -32,9 +32,9 @@ def run(path, npartitions):
 
     # Create a ROOT dataframe for each dataset
     df = {}
-    df["data"] = RDataFrame("mini", [os.path.join(path, "data_{}.GamGam.root".format(x)) for x in ("A", "B", "C", "D")])
-    df["ggH"] = RDataFrame("mini", os.path.join(path, "mc_343981.ggH125_gamgam.GamGam.root"))
-    df["VBF"] = RDataFrame("mini", os.path.join(path, "mc_345041.VBFH125_gamgam.GamGam.root"))
+    df["data"] = RDataFrame("mini", [os.path.join(path, "data_{}.GamGam.root".format(x)) for x in ("A", "B", "C", "D")], npartitions=npartitions)
+    df["ggH"] = RDataFrame("mini", os.path.join(path, "mc_343981.ggH125_gamgam.GamGam.root"), npartitions=npartitions)
+    df["VBF"] = RDataFrame("mini", os.path.join(path, "mc_345041.VBFH125_gamgam.GamGam.root"), npartitions=npartitions)
     processes = list(df.keys())
 
     # Apply scale factors and MC weight for simulated events and a weight of 1 for the data

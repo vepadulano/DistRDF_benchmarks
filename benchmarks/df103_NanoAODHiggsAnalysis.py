@@ -290,18 +290,18 @@ def run(path, npartitions):
     # Create dataframes for signal, background and data samples
 
     # Signal: Higgs -> 4 leptons
-    df_sig_4l = RDataFrame("Events", os.path.join(path, "SMHiggsToZZTo4L.root"))
+    df_sig_4l = RDataFrame("Events", os.path.join(path, "SMHiggsToZZTo4L.root"), npartitions=npartitions)
 
     # Background: ZZ -> 4 leptons
     # Note that additional background processes from the original paper
     # with minor contribution were left out for this
     # tutorial.
-    df_bkg_4mu = RDataFrame("Events", os.path.join(path, "ZZTo4mu.root"))
-    df_bkg_4el = RDataFrame("Events", os.path.join(path, "ZZTo4e.root"))
+    df_bkg_4mu = RDataFrame("Events", os.path.join(path, "ZZTo4mu.root"), npartitions=npartitions)
+    df_bkg_4el = RDataFrame("Events", os.path.join(path, "ZZTo4e.root"), npartitions=npartitions)
 
     # CMS data taken in 2012 (11.6 fb^-1 integrated luminosity)
-    df_data_doublemu = RDataFrame("Events", [os.path.join(path, f) for f in ["Run2012B_DoubleMuParked.root", "Run2012C_DoubleMuParked.root"]])
-    df_data_doubleel = RDataFrame("Events", [os.path.join(path, f) for f in ["Run2012B_DoubleElectron.root", "Run2012C_DoubleElectron.root"]])
+    df_data_doublemu = RDataFrame("Events", [os.path.join(path, f) for f in ["Run2012B_DoubleMuParked.root", "Run2012C_DoubleMuParked.root"]], npartitions=npartitions)
+    df_data_doubleel = RDataFrame("Events", [os.path.join(path, f) for f in ["Run2012B_DoubleElectron.root", "Run2012C_DoubleElectron.root"]], npartitions=npartitions)
 
     # Number of bins for all histograms
     nbins = 36
