@@ -8,6 +8,8 @@
 #include "TCanvas.h"
 #include "TLatex.h"
 #include "TLegend.h"
+#include <TStopwatch.h>
+#include <iostream>
 #include <sstream>
 #include <string>
 #include <unordered_map>
@@ -82,9 +84,19 @@ void run() {
     }
 
     // Run the event loop
+    TStopwatch watch;
     auto ggh  = *hists["ggH"];
+    double elapsed_ggh{watch.RealTime()};
+    watch.Start();
     auto vbf  = *hists["VBF"];
+    double elapsed_vbf{watch.RealTime()};
+    watch.Start();
     auto data = *hists["data"];
+    double elapsed_data{watch.RealTime()};
+
+    std::cout << "Event loop ggH: "  << std::fixed << std::setprecision(2) << elapsed_ggh << " s\n";
+    std::cout << "Event loop VBF: "  << std::fixed << std::setprecision(2) << elapsed_vbf << " s\n";
+    std::cout << "Event loop data: " << std::fixed << std::setprecision(2) << elapsed_data << " s\n";
 
     // Create the plot
 
