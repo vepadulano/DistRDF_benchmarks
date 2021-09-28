@@ -358,13 +358,32 @@ def run(path, npartitions):
                                     .Histo1D(("h_data_4el", "", nbins, 70, 180), "H_mass", "weight")
 
     # Trigger event loops and retrieve histograms
+    # Time also event loops at this stage
+    watch = ROOT.TStopwatch()
     signal_4mu = df_h_sig_4mu.GetValue()
+    elapsed_sig_4mu = watch.RealTime()
+    print("\tEvent loop df_sig_4l:", elapsed_sig_4mu, "s")
+    watch.Start()
     background_4mu = df_h_bkg_4mu.GetValue()
+    elapsed_bkg_4mu = watch.RealTime()
+    print("\tEvent loop df_bkg_4mu: ", elapsed_bkg_4mu, "s")
+    watch.Start()
     data_4mu = df_h_data_4mu.GetValue()
+    elapsed_data_4mu = watch.RealTime()
+    print("\tEvent loop df_data_doublemu:", elapsed_data_4mu, "s")
 
+    # This trigger refers to the same df_sig_4l RDF as signal_4mu
     signal_4el = df_h_sig_4el.GetValue()
+
+    watch.Start()
     background_4el = df_h_bkg_4el.GetValue()
+    elapsed_bkg_4el = watch.RealTime()
+    print("\tEvent loop df_bkg_4el:", elapsed_bkg_4el, "s")
+    watch.Start()
     data_4el = df_h_data_4el.GetValue()
+    elapsed_data_4el = watch.RealTime()
+    print("\tEvent loop df_data_doubleel:", elapsed_data_4el, "s")
+
 
     # Make plots
     plot(signal_4mu, background_4mu, data_4mu, "m_{4#mu} (GeV)", "higgs_4mu.pdf")
