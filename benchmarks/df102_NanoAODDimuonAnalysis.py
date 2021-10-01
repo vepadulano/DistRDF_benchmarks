@@ -28,7 +28,10 @@ def run(path, npartitions):
     c = ROOT.TCanvas("c", "", 800, 700)
     c.SetLogx(); c.SetLogy()
 
+    watch = ROOT.TStopwatch()
     h.SetTitle("")
+    elapsed = watch.RealTime()
+    print("\tEvent loop dimuon_data:", elapsed, "s")
     h.GetXaxis().SetTitle("m_{#mu#mu} (GeV)"); h.GetXaxis().SetTitleSize(0.04)
     h.GetYaxis().SetTitle("N_{Events}"); h.GetYaxis().SetTitleSize(0.04)
     h.Draw()
