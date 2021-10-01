@@ -26,15 +26,15 @@ def initialize():
     #endif
     """)
 
-def run(path, npartitions, sparkcontext):
+def run(path, npartitions):
     # Register initialization function
     distributed.initialize(initialize)
 
     # Create a ROOT dataframe for each dataset
     df = {}
-    df["data"] = RDataFrame("mini", [os.path.join(path, "data_{}.GamGam.root".format(x)) for x in ("A", "B", "C", "D")]*10, npartitions=npartitions, sparkcontext=sparkcontext)
-    df["ggH"] = RDataFrame("mini", [os.path.join(path, "mc_343981.ggH125_gamgam.GamGam.root")]*10, npartitions=npartitions, sparkcontext=sparkcontext)
-    df["VBF"] = RDataFrame("mini", [os.path.join(path, "mc_345041.VBFH125_gamgam.GamGam.root")]*10, npartitions=npartitions, sparkcontext=sparkcontext)
+    df["data"] = RDataFrame("mini", [os.path.join(path, "data_{}.GamGam.root".format(x)) for x in ("A", "B", "C", "D")]*10, npartitions=npartitions)
+    df["ggH"] = RDataFrame("mini", [os.path.join(path, "mc_343981.ggH125_gamgam.GamGam.root")]*10, npartitions=npartitions)
+    df["VBF"] = RDataFrame("mini", [os.path.join(path, "mc_345041.VBFH125_gamgam.GamGam.root")]*10, npartitions=npartitions)
     processes = list(df.keys())
 
     # Apply scale factors and MC weight for simulated events and a weight of 1 for the data
