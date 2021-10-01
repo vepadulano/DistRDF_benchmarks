@@ -4,13 +4,12 @@ import argparse
 import importlib
 import ROOT
 
-def create_spark_context(nworkers):
+def create_spark_context():
     import pyspark
     from pyspark import SparkConf, SparkContext
     conf = SparkConf()
     conf.set('spark.ui.showConsoleProgress', 'false')
-    conf.set('spark.master', 'local[{}]'.format(nworkers))
-    sc = SparkContext(conf=conf)
+    sc = SparkContext('local', conf=conf)
 
 if __name__ == '__main__':
     # Parse args
@@ -26,7 +25,7 @@ if __name__ == '__main__':
     ROOT.gROOT.SetBatch(True)
 
     # Initialize backend
-    create_spark_context(nworkers=1)
+    create_spark_context()
 
     # Run workflow
     ROOT.RDF.Experimental.Distributed.optimized = args.optimized
