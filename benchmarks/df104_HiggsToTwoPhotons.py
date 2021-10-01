@@ -73,9 +73,19 @@ def run(path, npartitions):
                 "m_yy", "weight")
 
     # Run the event loop
+    # Time also event loops at this stage
+    watch = ROOT.TStopwatch()
     ggh = hists["ggH"].GetValue()
+    elapsed_ggh = watch.RealTime()
+    print("\tEvent loop ggh:", elapsed_ggh, "s")
+    watch.Start()
     vbf = hists["VBF"].GetValue()
+    elapsed_vbf = watch.RealTime()
+    print("\tEvent loop vbf:", elapsed_vbf, "s")
+    watch.Start()
     data = hists["data"].GetValue()
+    elapsed_data = watch.RealTime()
+    print("\tEvent loop data:", elapsed_data, "s")
 
     # Create the plot
 
