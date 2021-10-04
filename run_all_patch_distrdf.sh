@@ -3,9 +3,6 @@
 PYTHON=`which python3`
 export PYTHONPATH=benchmarks:$PYTHONPATH
 
-# Make sure cppyy jits at O3
-export CPPYY_OPT_LEVEL=3
-
 NPARTITIONS=1
 TIMES_DIR=time_results/1xdata/patch_distrdf
 NTESTS=1
