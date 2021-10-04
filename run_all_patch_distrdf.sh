@@ -3,7 +3,6 @@
 PYTHON=`which python3`
 export PYTHONPATH=benchmarks:$PYTHONPATH
 
-NPARTITIONS=1
 TIMES_DIR=time_results/1xdata/patch_distrdf
 NTESTS=1
 
