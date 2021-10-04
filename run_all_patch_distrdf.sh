@@ -4,7 +4,7 @@ PYTHON=`which python3`
 export PYTHONPATH=benchmarks:$PYTHONPATH
 
 TIMES_DIR=time_results/1xdata/patch_distrdf
-NTESTS=1
+NTESTS=5
 
 mkdir -p $TIMES_DIR
 
