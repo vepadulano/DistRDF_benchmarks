@@ -12,6 +12,9 @@
 #include "TStyle.h"
 #include <string>
 #include <TStopwatch.h>
+#include <ROOT/RLogger.hxx>
+
+auto verbosity = ROOT::Experimental::RLogScopedVerbosity(ROOT::Detail::RDF::RDFLogChannel(), ROOT::Experimental::ELogLevel::kInfo);
 
 using namespace ROOT::VecOps;
 using RNode = ROOT::RDF::RNode;

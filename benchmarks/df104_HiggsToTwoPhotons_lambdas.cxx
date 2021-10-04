@@ -15,6 +15,9 @@
 #include <unordered_map>
 #include <utility>
 #include <vector>
+#include <ROOT/RLogger.hxx>
+
+auto verbosity = ROOT::Experimental::RLogScopedVerbosity(ROOT::Detail::RDF::RDFLogChannel(), ROOT::Experimental::ELogLevel::kInfo);
 
 using namespace ROOT::VecOps;
 using rvec_f = const RVec<float> &;
