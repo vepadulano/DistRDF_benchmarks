@@ -7,12 +7,12 @@ export PYTHONPATH=benchmarks:$PYTHONPATH
 export CPPYY_OPT_LEVEL=3
 
 NPARTITIONS=1
-TIMES_DIR=time_results
+TIMES_DIR=time_results/10xdata/patch_distrdf
 NTESTS=1
 
 mkdir -p $TIMES_DIR
 
-for benchmark_name in df102_NanoAODDimuonAnalysis df103_NanoAODHiggsAnalysis df104_HiggsToTwoPhotons
+for benchmark_name in df102_NanoAODDimuonAnalysis_10xdata df103_NanoAODHiggsAnalysis_10xdata df104_HiggsToTwoPhotons_10xdata
 do
   for mode in "" "--optimized"
   do
