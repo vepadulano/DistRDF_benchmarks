@@ -1,0 +1,104 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/03 09:53:07 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.190817 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (6.58s CPU, 6.57975s elapsed).
+Python Event Loop 7.785991907119751
+Python Task 8.075943946838379
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.294975 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (3.13s CPU, 3.13936s elapsed).
+Python Event Loop 3.434464931488037
+Python Task 3.435091018676758
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.461499 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,7798423], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (22.18s CPU, 22.1996s elapsed).
+Python Event Loop 22.661206007003784
+Python Task 22.66246199607849
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.295759 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (6.58s CPU, 6.58529s elapsed).
+Python Event Loop 6.881190061569214
+Python Task 6.881813049316406
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.295198 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (3.13s CPU, 3.13617s elapsed).
+Python Event Loop 3.4315009117126465
+Python Task 3.432137966156006
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.343824 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,7798423], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (22.16s CPU, 22.1933s elapsed).
+Python Event Loop 22.537286043167114
+Python Task 22.537868976593018
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.294466 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (6.57s CPU, 6.57958s elapsed).
+Python Event Loop 6.874179840087891
+Python Task 6.874821901321411
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.294394 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (3.14s CPU, 3.14174s elapsed).
+Python Event Loop 3.436262845993042
+Python Task 3.436908006668091
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.342623 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,7798423], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (22.17s CPU, 22.1991s elapsed).
+Python Event Loop 22.541839122772217
+Python Task 22.54244089126587
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.295431 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (6.59s CPU, 6.59901s elapsed).
+Python Event Loop 6.894567012786865
+Python Task 6.895215034484863
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.294870 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (3.14s CPU, 3.15124s elapsed).
+Python Event Loop 3.446237087249756
+Python Task 3.4468867778778076
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.343553 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,7798423], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (22.13s CPU, 22.1549s elapsed).
+Python Event Loop 22.498580932617188
+Python Task 22.499203205108643
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.296544 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (6.62s CPU, 6.62025s elapsed).
+Python Event Loop 6.916923999786377
+Python Task 6.917569875717163
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.295986 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (3.15s CPU, 3.15207s elapsed).
+Python Event Loop 3.448176145553589
+Python Task 3.4488070011138916
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.341754 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,7798423], using slot 0 in thread 140477842843456.
+Info in <[ROOT.RDF] Info /home/vpadulan/Programs/rootproject/root/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (22.21s CPU, 22.2424s elapsed).
+Python Event Loop 22.584317207336426
+Python Task 22.58493399620056
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
