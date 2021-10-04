@@ -30,4 +30,5 @@ if __name__ == '__main__':
     # Run workflow
     ROOT.RDF.Experimental.Distributed.optimized = args.optimized
     bm = importlib.import_module(args.benchmark)
-    bm.run(args.data_dir, args.npartitions)
+    for _ in range(5):
+        bm.run(args.data_dir, args.npartitions)
