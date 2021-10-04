@@ -14,10 +14,10 @@ do
   for npartitions in 1 4 8 16
   do
     echo "Running benchmark $benchmark_name with $npartitions partition(s)"
-    TIME_FILENAME=$TIMES_DIR/${benchmark_name}_${mode}_${npartitions}
+    TIME_FILENAME=$TIMES_DIR/${benchmark_name}_${npartitions}
     for i in `seq $NTESTS`
     do
-      $PYTHON launch.py --benchmark $benchmark_name --npartitions $npartitions $mode 1>> ${TIME_FILENAME}.out 2>> ${TIME_FILENAME}.err
+      $PYTHON launch.py --benchmark $benchmark_name --npartitions $npartitions 1>> ${TIME_FILENAME}.out 2>> ${TIME_FILENAME}.err
     done
   done
 done
