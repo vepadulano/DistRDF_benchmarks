@@ -11,7 +11,9 @@
 #include "TLatex.h"
 #include "TStyle.h"
 #include "TStopwatch.h"
+#include <ROOT/RLogger.hxx>
 
+auto verbosity = ROOT::Experimental::RLogScopedVerbosity(ROOT::Detail::RDF::RDFLogChannel(), ROOT::Experimental::ELogLevel::kInfo);
 
 void dimuonSpectrum() {
     // Create dataframe from NanoAOD files
