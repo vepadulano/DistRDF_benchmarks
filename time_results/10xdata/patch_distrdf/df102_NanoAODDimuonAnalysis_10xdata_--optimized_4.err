@@ -1,0 +1,195 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 19:08:09 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_0_791491_cxx.so
+C++ Compilation 6.875015020370483
+input_line_107:10:7: warning: ignoring return value of function declared with 'nodiscard' attribute [-Wunused-result]
+      ((const string*)obj)->empty();
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.531491 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 140534815754048.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (77.44s CPU, 77.5559s elapsed).
+C++ Event Loop 79.13128185272217
+C++ Task 86.40879702568054
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.584246 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 140534815754048.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (77.2s CPU, 77.3043s elapsed).
+C++ Event Loop 77.88865303993225
+C++ Task 77.88970303535461
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.585242 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 140534815754048.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (77.97s CPU, 78.085s elapsed).
+C++ Event Loop 78.67035913467407
+C++ Task 78.67140507698059
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.587955 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 140534815754048.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (78.27s CPU, 78.3731s elapsed).
+C++ Event Loop 78.96113395690918
+C++ Task 78.96220302581787
+Info in <TCanvas::Print>: pdf file dimuon_spectrum.pdf has been created
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 19:13:38 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_0_791893_cxx.so
+C++ Compilation 6.88647198677063
+input_line_107:10:7: warning: ignoring return value of function declared with 'nodiscard' attribute [-Wunused-result]
+      ((const string*)obj)->empty();
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.538731 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 139710214121280.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (77.51s CPU, 77.6227s elapsed).
+C++ Event Loop 79.20582509040833
+C++ Task 86.49981117248535
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.585514 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 139710214121280.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (76.98s CPU, 77.0869s elapsed).
+C++ Event Loop 77.6725389957428
+C++ Task 77.6735908985138
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.589210 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 139710214121280.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (78.78s CPU, 78.8913s elapsed).
+C++ Event Loop 79.48059606552124
+C++ Task 79.48162722587585
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.589110 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 139710214121280.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (78.15s CPU, 78.2586s elapsed).
+C++ Event Loop 78.84779214859009
+C++ Task 78.84882998466492
+Info in <TCanvas::Print>: pdf file dimuon_spectrum.pdf has been created
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 19:19:09 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_0_792276_cxx.so
+C++ Compilation 6.882878065109253
+input_line_107:10:7: warning: ignoring return value of function declared with 'nodiscard' attribute [-Wunused-result]
+      ((const string*)obj)->empty();
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.535805 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 140494702192448.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (77.75s CPU, 77.8682s elapsed).
+C++ Event Loop 79.44804310798645
+C++ Task 86.73384499549866
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.585941 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 140494702192448.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (77.03s CPU, 77.1559s elapsed).
+C++ Event Loop 77.74194693565369
+C++ Task 77.7430009841919
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.585074 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 140494702192448.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (77.38s CPU, 77.495s elapsed).
+C++ Event Loop 78.08015203475952
+C++ Task 78.08117008209229
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.588679 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 140494702192448.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (78.17s CPU, 78.2928s elapsed).
+C++ Event Loop 78.88164186477661
+C++ Task 78.88267493247986
+Info in <TCanvas::Print>: pdf file dimuon_spectrum.pdf has been created
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 19:24:38 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_0_792678_cxx.so
+C++ Compilation 6.869925022125244
+input_line_107:10:7: warning: ignoring return value of function declared with 'nodiscard' attribute [-Wunused-result]
+      ((const string*)obj)->empty();
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.535847 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 139837271914304.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (77.53s CPU, 77.6412s elapsed).
+C++ Event Loop 79.22099804878235
+C++ Task 86.49367594718933
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.585301 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 139837271914304.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (78.14s CPU, 78.2403s elapsed).
+C++ Event Loop 78.82571601867676
+C++ Task 78.82677483558655
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.587051 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 139837271914304.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (76.5s CPU, 76.5998s elapsed).
+C++ Event Loop 77.18692111968994
+C++ Task 77.1879768371582
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.587698 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 139837271914304.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (77.89s CPU, 77.9886s elapsed).
+C++ Event Loop 78.576416015625
+C++ Task 78.57744908332825
+Info in <TCanvas::Print>: pdf file dimuon_spectrum.pdf has been created
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 19:30:07 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_0_793080_cxx.so
+C++ Compilation 6.893913984298706
+input_line_107:10:7: warning: ignoring return value of function declared with 'nodiscard' attribute [-Wunused-result]
+      ((const string*)obj)->empty();
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.542975 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 140109669349184.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (76.74s CPU, 76.8421s elapsed).
+C++ Event Loop 78.42930507659912
+C++ Task 85.72884106636047
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.587508 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 140109669349184.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (76.63s CPU, 76.7408s elapsed).
+C++ Event Loop 77.32840609550476
+C++ Task 77.32945084571838
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.587967 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 140109669349184.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (77.76s CPU, 77.8764s elapsed).
+C++ Event Loop 78.46448421478271
+C++ Task 78.46553015708923
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.590046 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events,Events} in files {data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root,data/Run2012BC_DoubleMuParked_Muons.root}: entry range [0,184621238], using slot 0 in thread 140109669349184.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (77.41s CPU, 77.5329s elapsed).
+C++ Event Loop 78.1230959892273
+C++ Task 78.12412619590759
+Info in <TCanvas::Print>: pdf file dimuon_spectrum.pdf has been created

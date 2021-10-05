@@ -1,0 +1,827 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/03 16:07:07 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_0_621193_cxx.so
+C++ Compilation 7.14532995223999
+input_line_111:10:7: warning: ignoring return value of function declared with 'nodiscard' attribute [-Wunused-result]
+      ((const string*)obj)->empty();
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 3.239709 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/SMHiggsToZZTo4L.root}: entry range [0,42548], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.13s CPU, 0.132844s elapsed).
+C++ Event Loop 3.4170210361480713
+C++ Task 10.98474907875061
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_1_621193_cxx.so
+C++ Compilation 7.054614067077637
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.780096 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.48s CPU, 0.478081s elapsed).
+C++ Event Loop 1.2582781314849854
+C++ Task 8.370516061782837
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.678618 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.38s CPU, 0.368392s elapsed).
+C++ Event Loop 1.0471210479736328
+C++ Task 1.0483169555664062
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_2_621193_cxx.so
+C++ Compilation 7.056707143783569
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.784653 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.32s CPU, 0.315239s elapsed).
+C++ Event Loop 1.1000139713287354
+C++ Task 8.214363813400269
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.681782 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.404683s elapsed).
+C++ Event Loop 1.0865859985351562
+C++ Task 1.0878219604492188
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.681675 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.2s CPU, 0.20878s elapsed).
+C++ Event Loop 0.890570878982544
+C++ Task 0.8917689323425293
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.680448 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.406884s elapsed).
+C++ Event Loop 1.0874478816986084
+C++ Task 1.0886571407318115
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.684620 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.402169s elapsed).
+C++ Event Loop 1.0869040489196777
+C++ Task 1.0881109237670898
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.682647 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.21s CPU, 0.207263s elapsed).
+C++ Event Loop 0.8900249004364014
+C++ Task 0.8912310600280762
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.680976 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.33s CPU, 0.330476s elapsed).
+C++ Event Loop 1.0115737915039062
+C++ Task 1.012801170349121
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.680969 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.33s CPU, 0.322108s elapsed).
+C++ Event Loop 1.0031919479370117
+C++ Task 1.0044019222259521
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.676730 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.40376s elapsed).
+C++ Event Loop 1.0806050300598145
+C++ Task 1.081813097000122
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.680744 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.403506s elapsed).
+C++ Event Loop 1.0843651294708252
+C++ Task 1.0855820178985596
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.677201 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.2s CPU, 0.205096s elapsed).
+C++ Event Loop 0.882411003112793
+C++ Task 0.8836250305175781
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.679333 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.41s CPU, 0.404986s elapsed).
+C++ Event Loop 1.0844409465789795
+C++ Task 1.0856828689575195
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.679067 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.404775s elapsed).
+C++ Event Loop 1.0839550495147705
+C++ Task 1.0851669311523438
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.682125 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.2s CPU, 0.192913s elapsed).
+C++ Event Loop 0.8751518726348877
+C++ Task 0.876349925994873
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.681850 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.41s CPU, 0.403069s elapsed).
+C++ Event Loop 1.0850319862365723
+C++ Task 1.0862319469451904
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.679954 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.38s CPU, 0.375744s elapsed).
+C++ Event Loop 1.055812120437622
+C++ Task 1.057013988494873
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_3_621193_cxx.so
+C++ Compilation 7.033506870269775
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.785712 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.5s CPU, 0.499784s elapsed).
+C++ Event Loop 1.2855920791625977
+C++ Task 8.378053188323975
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.681099 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.02s CPU, 0.0218909s elapsed).
+C++ Event Loop 0.703078031539917
+C++ Task 0.7042531967163086
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_4_621193_cxx.so
+C++ Compilation 7.05515193939209
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.689388 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.11s CPU, 0.109238s elapsed).
+C++ Event Loop 0.7987289428710938
+C++ Task 7.911194801330566
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.690625 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.13s CPU, 0.121565s elapsed).
+C++ Event Loop 0.8123152256011963
+C++ Task 0.8135850429534912
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687373 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.1s CPU, 0.106231s elapsed).
+C++ Event Loop 0.793708086013794
+C++ Task 0.7949540615081787
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.695507 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.19s CPU, 0.190969s elapsed).
+C++ Event Loop 0.8865921497344971
+C++ Task 0.8878719806671143
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.685211 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.06s CPU, 0.0636401s elapsed).
+C++ Event Loop 0.7489550113677979
+C++ Task 0.7501749992370605
+Info in <TCanvas::Print>: pdf file higgs_4mu.pdf has been created
+Info in <TCanvas::Print>: pdf file higgs_4el.pdf has been created
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.686526 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/SMHiggsToZZTo4L.root}: entry range [0,42548], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.13s CPU, 0.131614s elapsed).
+C++ Event Loop 0.818230152130127
+C++ Task 0.8200130462646484
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.671669 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.47s CPU, 0.478122s elapsed).
+C++ Event Loop 1.1498808860778809
+C++ Task 1.151036024093628
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.675634 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.36s CPU, 0.3625s elapsed).
+C++ Event Loop 1.038248062133789
+C++ Task 1.0394129753112793
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.674725 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.31s CPU, 0.306345s elapsed).
+C++ Event Loop 0.9811890125274658
+C++ Task 0.9824390411376953
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.677912 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.396286s elapsed).
+C++ Event Loop 1.0743210315704346
+C++ Task 1.0755360126495361
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.679621 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.2s CPU, 0.200096s elapsed).
+C++ Event Loop 0.8798360824584961
+C++ Task 0.8811070919036865
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.678187 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.39s CPU, 0.39422s elapsed).
+C++ Event Loop 1.072524070739746
+C++ Task 1.073789119720459
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.681657 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.404661s elapsed).
+C++ Event Loop 1.0864410400390625
+C++ Task 1.0876569747924805
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.679378 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.2s CPU, 0.201263s elapsed).
+C++ Event Loop 0.8807621002197266
+C++ Task 0.8819971084594727
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.683975 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.33s CPU, 0.326146s elapsed).
+C++ Event Loop 1.010235071182251
+C++ Task 1.0114481449127197
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.679918 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+C++ Event Loop 0.9964349269866943
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.33s CPU, 0.316402s elapsed).
+C++ Task 0.9976630210876465
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.678608 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.39s CPU, 0.402259s elapsed).
+C++ Event Loop 1.0809900760650635
+C++ Task 1.0821950435638428
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.683974 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.402004s elapsed).
+C++ Event Loop 1.0860979557037354
+C++ Task 1.0873138904571533
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.680704 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.21s CPU, 0.205651s elapsed).
+C++ Event Loop 0.8864810466766357
+C++ Task 0.8877110481262207
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.684552 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.400961s elapsed).
+C++ Event Loop 1.0856349468231201
+C++ Task 1.086855173110962
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687131 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.41s CPU, 0.404691s elapsed).
+C++ Event Loop 1.0919511318206787
+C++ Task 1.0931611061096191
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.681226 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.19s CPU, 0.195524s elapsed).
+C++ Event Loop 0.876863956451416
+C++ Task 0.8780820369720459
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.684181 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.403606s elapsed).
+C++ Event Loop 1.0879130363464355
+C++ Task 1.089141845703125
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.681992 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.377889s elapsed).
+C++ Event Loop 1.0599970817565918
+C++ Task 1.0612099170684814
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.683130 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.51s CPU, 0.501674s elapsed).
+C++ Event Loop 1.1849031448364258
+C++ Task 1.1861319541931152
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.682280 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.02s CPU, 0.0217979s elapsed).
+C++ Event Loop 0.7041680812835693
+C++ Task 0.7053711414337158
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.688062 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.11s CPU, 0.109564s elapsed).
+C++ Event Loop 0.7977209091186523
+C++ Task 0.7989621162414551
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.688011 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.12s CPU, 0.120561s elapsed).
+C++ Event Loop 0.8086819648742676
+C++ Task 0.8099210262298584
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.684126 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.09s CPU, 0.107876s elapsed).
+C++ Event Loop 0.7920949459075928
+C++ Task 0.7933199405670166
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.688397 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.19s CPU, 0.190663s elapsed).
+C++ Event Loop 0.879173994064331
+C++ Task 0.8804631233215332
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.684373 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.07s CPU, 0.0642989s elapsed).
+C++ Event Loop 0.7487781047821045
+C++ Task 0.7500109672546387
+Info in <TCanvas::Print>: pdf file higgs_4mu.pdf has been created
+Info in <TCanvas::Print>: pdf file higgs_4el.pdf has been created
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.698208 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/SMHiggsToZZTo4L.root}: entry range [0,42548], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.13s CPU, 0.131432s elapsed).
+C++ Event Loop 0.8297379016876221
+C++ Task 0.831536054611206
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.695302 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.48s CPU, 0.475285s elapsed).
+C++ Event Loop 1.1706838607788086
+C++ Task 1.1718668937683105
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687725 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.36s CPU, 0.365582s elapsed).
+C++ Event Loop 1.0534188747406006
+C++ Task 1.054610013961792
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.684122 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.3s CPU, 0.310311s elapsed).
+C++ Event Loop 0.9945461750030518
+C++ Task 0.995776891708374
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.684350 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.397376s elapsed).
+C++ Event Loop 1.0818390846252441
+C++ Task 1.0830459594726562
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.689552 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.2s CPU, 0.199438s elapsed).
+C++ Event Loop 0.8891010284423828
+C++ Task 0.8903529644012451
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687228 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.400394s elapsed).
+C++ Event Loop 1.0877389907836914
+C++ Task 1.088939905166626
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.686978 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.39s CPU, 0.395142s elapsed).
+C++ Event Loop 1.0822441577911377
+C++ Task 1.0834920406341553
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687707 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.21s CPU, 0.200412s elapsed).
+C++ Event Loop 0.8882319927215576
+C++ Task 0.8894221782684326
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.686869 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.33s CPU, 0.323124s elapsed).
+C++ Event Loop 1.010106086730957
+C++ Task 1.0113060474395752
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.685172 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.32s CPU, 0.323109s elapsed).
+C++ Event Loop 1.0083951950073242
+C++ Task 1.0095961093902588
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.679393 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.39s CPU, 0.4003s elapsed).
+C++ Event Loop 1.0798120498657227
+C++ Task 1.0810511112213135
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.678734 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.402091s elapsed).
+C++ Event Loop 1.080960988998413
+C++ Task 1.0821740627288818
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.678143 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.21s CPU, 0.205786s elapsed).
+C++ Event Loop 0.8840470314025879
+C++ Task 0.8852779865264893
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.678543 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.402212s elapsed).
+C++ Event Loop 1.0808711051940918
+C++ Task 1.082082986831665
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.677737 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.41s CPU, 0.41025s elapsed).
+C++ Event Loop 1.0881080627441406
+C++ Task 1.0893361568450928
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.680089 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.19s CPU, 0.194557s elapsed).
+C++ Event Loop 0.874763011932373
+C++ Task 0.8759851455688477
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.682613 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.40284s elapsed).
+C++ Event Loop 1.0855698585510254
+C++ Task 1.086766004562378
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.683691 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.378179s elapsed).
+C++ Event Loop 1.0619912147521973
+C++ Task 1.0631840229034424
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.676711 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.49s CPU, 0.499909s elapsed).
+C++ Event Loop 1.17671799659729
+C++ Task 1.1779389381408691
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.679047 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.03s CPU, 0.0218251s elapsed).
+C++ Event Loop 0.7009611129760742
+C++ Task 0.7021591663360596
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.682490 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.1s CPU, 0.10899s elapsed).
+C++ Event Loop 0.791571855545044
+C++ Task 0.7927980422973633
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.681502 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.12s CPU, 0.12106s elapsed).
+C++ Event Loop 0.802670955657959
+C++ Task 0.8038959503173828
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.685100 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.1s CPU, 0.108107s elapsed).
+C++ Event Loop 0.7932970523834229
+C++ Task 0.7945511341094971
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.683293 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.19s CPU, 0.191061s elapsed).
+C++ Event Loop 0.8744688034057617
+C++ Task 0.8756959438323975
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.677806 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.07s CPU, 0.063802s elapsed).
+C++ Event Loop 0.7417051792144775
+C++ Task 0.7429168224334717
+Info in <TCanvas::Print>: pdf file higgs_4mu.pdf has been created
+Info in <TCanvas::Print>: pdf file higgs_4el.pdf has been created
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.688704 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/SMHiggsToZZTo4L.root}: entry range [0,42548], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.13s CPU, 0.131506s elapsed).
+C++ Event Loop 0.8203041553497314
+C++ Task 0.8221111297607422
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.683404 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.48s CPU, 0.476081s elapsed).
+C++ Event Loop 1.1595768928527832
+C++ Task 1.16074800491333
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.685332 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.36s CPU, 0.362355s elapsed).
+C++ Event Loop 1.047800064086914
+C++ Task 1.0489721298217773
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.679222 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.3s CPU, 0.307134s elapsed).
+C++ Event Loop 0.9864718914031982
+C++ Task 0.9877030849456787
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.679873 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.396126s elapsed).
+C++ Event Loop 1.076113224029541
+C++ Task 1.0773169994354248
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.683492 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.2s CPU, 0.198223s elapsed).
+C++ Event Loop 0.8818280696868896
+C++ Task 0.8830349445343018
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.685530 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.39375s elapsed).
+C++ Event Loop 1.0793979167938232
+C++ Task 1.080596923828125
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.686846 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.39s CPU, 0.394865s elapsed).
+C++ Event Loop 1.0818259716033936
+C++ Task 1.0830190181732178
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.681124 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.21s CPU, 0.204412s elapsed).
+C++ Event Loop 0.8856551647186279
+C++ Task 0.8868699073791504
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.685780 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.31s CPU, 0.317258s elapsed).
+C++ Event Loop 1.0031530857086182
+C++ Task 1.0043880939483643
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.684488 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.32s CPU, 0.319715s elapsed).
+C++ Event Loop 1.004319190979004
+C++ Task 1.0055079460144043
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.686353 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.41s CPU, 0.397589s elapsed).
+C++ Event Loop 1.0840559005737305
+C++ Task 1.085251808166504
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.689547 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.403795s elapsed).
+C++ Event Loop 1.0934698581695557
+C++ Task 1.0947120189666748
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.684420 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.2s CPU, 0.207609s elapsed).
+C++ Event Loop 0.8921430110931396
+C++ Task 0.8933470249176025
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.682144 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.401491s elapsed).
+C++ Event Loop 1.0837509632110596
+C++ Task 1.0849699974060059
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.684001 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.402762s elapsed).
+C++ Event Loop 1.0868849754333496
+C++ Task 1.0881080627441406
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.680482 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.19s CPU, 0.194194s elapsed).
+C++ Event Loop 0.8747928142547607
+C++ Task 0.876007080078125
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.686495 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.40636s elapsed).
+C++ Event Loop 1.0929770469665527
+C++ Task 1.0941858291625977
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.691181 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.374843s elapsed).
+C++ Event Loop 1.0661399364471436
+C++ Task 1.067352056503296
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.683731 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.51s CPU, 0.502329s elapsed).
+C++ Event Loop 1.186156988143921
+C++ Task 1.187385082244873
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.688169 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.02s CPU, 0.0218019s elapsed).
+C++ Event Loop 0.7100620269775391
+C++ Task 0.7112441062927246
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687793 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.11s CPU, 0.110124s elapsed).
+C++ Event Loop 0.7980091571807861
+C++ Task 0.7992510795593262
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687489 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.12s CPU, 0.120903s elapsed).
+C++ Event Loop 0.8085050582885742
+C++ Task 0.8097379207611084
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.688359 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.11s CPU, 0.106259s elapsed).
+C++ Event Loop 0.7947208881378174
+C++ Task 0.7959771156311035
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687025 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.19s CPU, 0.192439s elapsed).
+C++ Event Loop 0.8795797824859619
+C++ Task 0.8808169364929199
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.691392 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.06s CPU, 0.066268s elapsed).
+C++ Event Loop 0.7577621936798096
+C++ Task 0.758979082107544
+Info in <TCanvas::Print>: pdf file higgs_4mu.pdf has been created
+Info in <TCanvas::Print>: pdf file higgs_4el.pdf has been created
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.695373 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/SMHiggsToZZTo4L.root}: entry range [0,42548], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.13s CPU, 0.13181s elapsed).
+C++ Event Loop 0.827272891998291
+C++ Task 0.8290879726409912
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687932 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.48s CPU, 0.476442s elapsed).
+C++ Event Loop 1.16447114944458
+C++ Task 1.1656460762023926
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.686423 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.36s CPU, 0.366956s elapsed).
+C++ Event Loop 1.0534980297088623
+C++ Task 1.05466890335083
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.697262 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.31s CPU, 0.311061s elapsed).
+C++ Event Loop 1.0084400177001953
+C++ Task 1.0096678733825684
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.685486 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.39s CPU, 0.39675s elapsed).
+C++ Event Loop 1.082352876663208
+C++ Task 1.0836188793182373
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687787 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.21s CPU, 0.207814s elapsed).
+C++ Event Loop 0.895719051361084
+C++ Task 0.896942138671875
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.694116 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.396031s elapsed).
+C++ Event Loop 1.0902659893035889
+C++ Task 1.0914790630340576
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687254 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.41s CPU, 0.406685s elapsed).
+C++ Event Loop 1.0940561294555664
+C++ Task 1.0952839851379395
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687551 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.2s CPU, 0.205068s elapsed).
+C++ Event Loop 0.8927390575408936
+C++ Task 0.8939769268035889
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.689101 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.32s CPU, 0.325009s elapsed).
+C++ Event Loop 1.014240026473999
+C++ Task 1.0154540538787842
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.691155 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.31s CPU, 0.322698s elapsed).
+C++ Event Loop 1.013969898223877
+C++ Task 1.0151968002319336
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.691083 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.402087s elapsed).
+C++ Event Loop 1.0932888984680176
+C++ Task 1.0945098400115967
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.697760 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.400026s elapsed).
+C++ Event Loop 1.0979080200195312
+C++ Task 1.0991251468658447
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.692422 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.2s CPU, 0.205311s elapsed).
+C++ Event Loop 0.8978488445281982
+C++ Task 0.8990612030029297
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.691011 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.405933s elapsed).
+C++ Event Loop 1.0970630645751953
+C++ Task 1.0982801914215088
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.689573 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.402148s elapsed).
+C++ Event Loop 1.0918378829956055
+C++ Task 1.0930640697479248
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.688717 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.19s CPU, 0.193718s elapsed).
+C++ Event Loop 0.8825521469116211
+C++ Task 0.8837690353393555
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.690474 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.41s CPU, 0.402653s elapsed).
+C++ Event Loop 1.093242883682251
+C++ Task 1.0944550037384033
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687722 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.373836s elapsed).
+C++ Event Loop 1.0616741180419922
+C++ Task 1.0628750324249268
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687028 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.5s CPU, 0.501665s elapsed).
+C++ Event Loop 1.1887869834899902
+C++ Task 1.1899919509887695
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.692439 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.02s CPU, 0.0219481s elapsed).
+C++ Event Loop 0.714475154876709
+C++ Task 0.7156660556793213
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687169 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.11s CPU, 0.108913s elapsed).
+C++ Event Loop 0.7961769104003906
+C++ Task 0.7973909378051758
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.690034 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.13s CPU, 0.120437s elapsed).
+C++ Event Loop 0.8105838298797607
+C++ Task 0.8118197917938232
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.687937 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.1s CPU, 0.106097s elapsed).
+C++ Event Loop 0.7941300868988037
+C++ Task 0.7953598499298096
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.691037 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.2s CPU, 0.191702s elapsed).
+C++ Event Loop 0.8828549385070801
+C++ Task 0.884113073348999
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.699036 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689973999424.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.06s CPU, 0.0636799s elapsed).
+C++ Event Loop 0.7628200054168701
+C++ Task 0.764042854309082
+Info in <TCanvas::Print>: pdf file higgs_4mu.pdf has been created
+Info in <TCanvas::Print>: pdf file higgs_4el.pdf has been created
+/home/vpadulan/Projects/etejedor-root/install/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 1 partition(s)
+  ranges = headnode.build_ranges()
+/home/vpadulan/Projects/etejedor-root/install/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 2 partition(s)
+  ranges = headnode.build_ranges()
+/home/vpadulan/Projects/etejedor-root/install/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 5 partition(s)
+  ranges = headnode.build_ranges()
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d

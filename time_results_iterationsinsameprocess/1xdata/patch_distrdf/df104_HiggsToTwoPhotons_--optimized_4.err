@@ -1,0 +1,383 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/03 16:20:37 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_0_624333_cxx.so
+C++ Compilation 7.205053091049194
+input_line_105:10:7: warning: ignoring return value of function declared with 'nodiscard' attribute [-Wunused-result]
+      ((const string*)obj)->empty();
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.521808 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.76s CPU, 0.769695s elapsed).
+C++ Event Loop 3.335942029953003
+C++ Task 10.975048065185547
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.597821 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.76s CPU, 0.768029s elapsed).
+C++ Event Loop 1.3659639358520508
+C++ Task 1.3671278953552246
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.600925 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.396308s elapsed).
+C++ Event Loop 0.9973421096801758
+C++ Task 0.9984920024871826
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.603292 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.77s CPU, 0.761218s elapsed).
+C++ Event Loop 1.3646211624145508
+C++ Task 1.3657870292663574
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_1_624333_cxx.so
+C++ Compilation 7.1603710651397705
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.603865 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.36995s elapsed).
+C++ Event Loop 0.9739298820495605
+C++ Task 8.190992832183838
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.603947 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.366816s elapsed).
+C++ Event Loop 0.9708690643310547
+C++ Task 0.9720489978790283
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.605369 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.364947s elapsed).
+C++ Event Loop 0.970426082611084
+C++ Task 0.971621036529541
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.606120 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.18s CPU, 0.170686s elapsed).
+C++ Event Loop 0.776900053024292
+C++ Task 0.7780179977416992
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_2_624333_cxx.so
+C++ Compilation 7.111876964569092
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.845743 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root}: entry range [0,1959060], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.74s CPU, 2.73205s elapsed).
+C++ Event Loop 3.577915906906128
+C++ Task 10.748320817947388
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.685712 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/data_C.GamGam.root}: entry range [0,2237186], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.9s CPU, 2.89955s elapsed).
+C++ Event Loop 3.5853841304779053
+C++ Task 3.586534023284912
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.686520 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini} in files {data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,5839362], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.51s CPU, 2.51368s elapsed).
+C++ Event Loop 3.2003159523010254
+C++ Task 3.2014739513397217
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.683417 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/data_D.GamGam.root}: entry range [0,3602175], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.59s CPU, 2.59997s elapsed).
+C++ Event Loop 3.2834970951080322
+C++ Task 3.2846319675445557
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.604467 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.76s CPU, 0.756005s elapsed).
+C++ Event Loop 1.3605871200561523
+C++ Task 1.3617620468139648
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.603544 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.74s CPU, 0.757434s elapsed).
+C++ Event Loop 1.361091136932373
+C++ Task 1.3622570037841797
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.602960 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.38s CPU, 0.384006s elapsed).
+C++ Event Loop 0.9870748519897461
+C++ Task 0.9882268905639648
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.604724 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.77s CPU, 0.765464s elapsed).
+C++ Event Loop 1.370305061340332
+C++ Task 1.3714828491210938
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.604944 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.367337s elapsed).
+C++ Event Loop 0.972398042678833
+C++ Task 0.9735801219940186
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.605234 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.366542s elapsed).
+C++ Event Loop 0.9718868732452393
+C++ Task 0.9730429649353027
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.605276 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.36s CPU, 0.363971s elapsed).
+C++ Event Loop 0.9693620204925537
+C++ Task 0.9705479145050049
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.605375 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.18s CPU, 0.170255s elapsed).
+C++ Event Loop 0.775738000869751
+C++ Task 0.7768828868865967
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.686641 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root}: entry range [0,1959060], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.72s CPU, 2.722s elapsed).
+C++ Event Loop 3.4087560176849365
+C++ Task 3.409919023513794
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.684579 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/data_C.GamGam.root}: entry range [0,2237186], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.92s CPU, 2.92539s elapsed).
+C++ Event Loop 3.6100821495056152
+C++ Task 3.611222982406616
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.683047 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini} in files {data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,5839362], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.49s CPU, 2.492s elapsed).
+C++ Event Loop 3.1751561164855957
+C++ Task 3.176305055618286
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.683107 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/data_D.GamGam.root}: entry range [0,3602175], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.61s CPU, 2.61305s elapsed).
+C++ Event Loop 3.296267032623291
+C++ Task 3.297415018081665
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.607358 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.76s CPU, 0.760597s elapsed).
+C++ Event Loop 1.3680739402770996
+C++ Task 1.3692500591278076
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.609203 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.76s CPU, 0.757226s elapsed).
+C++ Event Loop 1.3665449619293213
+C++ Task 1.3677160739898682
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.611533 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.39s CPU, 0.387805s elapsed).
+C++ Event Loop 0.9994480609893799
+C++ Task 1.000615119934082
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.612459 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.75s CPU, 0.753439s elapsed).
+C++ Event Loop 1.366014003753662
+C++ Task 1.3671798706054688
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.610797 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.367087s elapsed).
+C++ Event Loop 0.9779949188232422
+C++ Task 0.9791719913482666
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.613254 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.36s CPU, 0.364026s elapsed).
+C++ Event Loop 0.977388858795166
+C++ Task 0.9785399436950684
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.613051 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.36s CPU, 0.3664s elapsed).
+C++ Event Loop 0.9795660972595215
+C++ Task 0.9807407855987549
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.607202 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.17s CPU, 0.170381s elapsed).
+C++ Event Loop 0.7776827812194824
+C++ Task 0.778825044631958
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.677878 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root}: entry range [0,1959060], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.7s CPU, 2.69889s elapsed).
+C++ Event Loop 3.376878023147583
+C++ Task 3.378016948699951
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.682295 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/data_C.GamGam.root}: entry range [0,2237186], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.93s CPU, 2.93358s elapsed).
+C++ Event Loop 3.6159908771514893
+C++ Task 3.617121934890747
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.681987 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini} in files {data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,5839362], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.48s CPU, 2.48906s elapsed).
+C++ Event Loop 3.1711580753326416
+C++ Task 3.1723079681396484
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.678186 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/data_D.GamGam.root}: entry range [0,3602175], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.6s CPU, 2.60638s elapsed).
+C++ Event Loop 3.2846758365631104
+C++ Task 3.285801887512207
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.605304 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.77s CPU, 0.768045s elapsed).
+C++ Event Loop 1.3734700679779053
+C++ Task 1.3746180534362793
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.602881 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.75s CPU, 0.757775s elapsed).
+C++ Event Loop 1.3607690334320068
+C++ Task 1.3619191646575928
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.604892 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.39s CPU, 0.381372s elapsed).
+C++ Event Loop 0.9863789081573486
+C++ Task 0.9875268936157227
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.604115 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.77s CPU, 0.774689s elapsed).
+C++ Event Loop 1.3789231777191162
+C++ Task 1.3800899982452393
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.604992 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.364851s elapsed).
+C++ Event Loop 0.9699530601501465
+C++ Task 0.9711310863494873
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.607070 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.366209s elapsed).
+C++ Event Loop 0.973383903503418
+C++ Task 0.9745299816131592
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.605752 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.367038s elapsed).
+C++ Event Loop 0.9729099273681641
+C++ Task 0.9740960597991943
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.606921 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.16s CPU, 0.16891s elapsed).
+C++ Event Loop 0.7759311199188232
+C++ Task 0.7770829200744629
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.684089 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root}: entry range [0,1959060], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.71s CPU, 2.72216s elapsed).
+C++ Event Loop 3.406363010406494
+C++ Task 3.4074971675872803
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.683725 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/data_C.GamGam.root}: entry range [0,2237186], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.94s CPU, 2.94311s elapsed).
+C++ Event Loop 3.626952886581421
+C++ Task 3.62808895111084
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.686627 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini} in files {data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,5839362], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.49s CPU, 2.49633s elapsed).
+C++ Event Loop 3.1830711364746094
+C++ Task 3.184209108352661
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.688081 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/data_D.GamGam.root}: entry range [0,3602175], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.66s CPU, 2.66655s elapsed).
+C++ Event Loop 3.3547468185424805
+C++ Task 3.355884075164795
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.605795 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.76s CPU, 0.76994s elapsed).
+C++ Event Loop 1.3758509159088135
+C++ Task 1.3770208358764648
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.613008 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.76s CPU, 0.763801s elapsed).
+C++ Event Loop 1.376927137374878
+C++ Task 1.3780829906463623
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.608274 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.38s CPU, 0.385186s elapsed).
+C++ Event Loop 0.9935750961303711
+C++ Task 0.9947140216827393
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.609786 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,1054710], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.76s CPU, 0.753675s elapsed).
+C++ Event Loop 1.3635759353637695
+C++ Task 1.364717960357666
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.611216 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.366045s elapsed).
+C++ Event Loop 0.9773728847503662
+C++ Task 0.9785580635070801
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.610965 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.36s CPU, 0.365477s elapsed).
+C++ Event Loop 0.9765539169311523
+C++ Task 0.977708101272583
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.613833 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.37s CPU, 0.366056s elapsed).
+C++ Event Loop 0.9800019264221191
+C++ Task 0.981165885925293
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.608706 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,497467], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.16s CPU, 0.170529s elapsed).
+C++ Event Loop 0.7793331146240234
+C++ Task 0.780491828918457
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.689814 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root}: entry range [0,1959060], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.7s CPU, 2.70523s elapsed).
+C++ Event Loop 3.395156145095825
+C++ Task 3.3963139057159424
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.685912 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/data_C.GamGam.root}: entry range [0,2237186], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.9s CPU, 2.9061s elapsed).
+C++ Event Loop 3.592121124267578
+C++ Task 3.5932650566101074
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.693322 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini} in files {data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,5839362], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.47s CPU, 2.47649s elapsed).
+C++ Event Loop 3.169926881790161
+C++ Task 3.1710619926452637
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:705 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:680 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.688448 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:473 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini} in files {data/data_D.GamGam.root}: entry range [0,3602175], using slot 0 in thread 139750400956224.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/root/tree/dataframe/src/RLoopManager.cxx:729 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (2.58s CPU, 2.5887s elapsed).
+C++ Event Loop 3.277266025543213
+C++ Task 3.278409957885742
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created

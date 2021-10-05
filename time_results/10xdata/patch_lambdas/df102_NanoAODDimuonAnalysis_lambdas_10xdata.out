@@ -1,0 +1,15 @@
+Compiling benchmark df102_NanoAODDimuonAnalysis_lambdas_10xdata
+Time to compile benchmark: 3.43086
+Compiling benchmark df102_NanoAODDimuonAnalysis_lambdas_10xdata
+Time to compile benchmark: 3.41547
+Compiling benchmark df102_NanoAODDimuonAnalysis_lambdas_10xdata
+Time to compile benchmark: 3.43236
+Compiling benchmark df102_NanoAODDimuonAnalysis_lambdas_10xdata
+Time to compile benchmark: 3.41206
+Compiling benchmark df102_NanoAODDimuonAnalysis_lambdas_10xdata
+Time to compile benchmark: 3.41589
+C++ Lambda Event Loop 265.88 s
+C++ Lambda Event Loop 271.21 s
+C++ Lambda Event Loop 269.11 s
+C++ Lambda Event Loop 267.32 s
+C++ Lambda Event Loop 268.87 s

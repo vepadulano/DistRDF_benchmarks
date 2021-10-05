@@ -1,0 +1,470 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 15:40:29 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.432935 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/SMHiggsToZZTo4L.root}: entry range [0,42548], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.27s CPU, 0.271593s elapsed).
+Python Event Loop 1.7190439701080322
+Python Task 1.9784069061279297
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.403430 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.04s CPU, 1.04294s elapsed).
+Python Event Loop 1.446497917175293
+Python Task 1.4477458000183105
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.338524 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.8s CPU, 0.803377s elapsed).
+Python Event Loop 1.142030954360962
+Python Task 1.1426620483398438
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.406927 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.73s CPU, 1.72714s elapsed).
+Python Event Loop 2.1342039108276367
+Python Task 2.1354939937591553
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.341585 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {data/Run2012B_DoubleMuParked.root,data/Run2012C_DoubleMuParked.root}: entry range [0,5585724], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.65s CPU, 1.65379s elapsed).
+Python Event Loop 1.9955029487609863
+Python Task 1.9961309432983398
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.339334 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.81s CPU, 1.80392s elapsed).
+Python Event Loop 2.143383026123047
+Python Task 2.1440069675445557
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.340962 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.78s CPU, 1.77722s elapsed).
+Python Event Loop 2.1183178424835205
+Python Task 2.118955135345459
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.402216 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.08s CPU, 1.07706s elapsed).
+Python Event Loop 1.4794020652770996
+Python Task 1.4807460308074951
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.340715 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.04s CPU, 0.0447528s elapsed).
+Python Event Loop 0.3855710029602051
+Python Task 0.38628387451171875
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.341190 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.16s CPU, 0.165435s elapsed).
+Python Event Loop 0.5067341327667236
+Python Task 0.5074458122253418
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.343732 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.14s CPU, 0.150824s elapsed).
+Python Event Loop 0.4946880340576172
+Python Task 0.4953739643096924
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.342729 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.41s CPU, 0.401235s elapsed).
+Python Event Loop 0.7440948486328125
+Python Task 0.7447891235351562
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.343882 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139920309868352.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.08s CPU, 0.0787041s elapsed).
+Python Event Loop 0.42269301414489746
+Python Task 0.4233968257904053
+Info in <TCanvas::Print>: pdf file higgs_4mu.pdf has been created
+Info in <TCanvas::Print>: pdf file higgs_4el.pdf has been created
+/home/vpadulan/Projects/etejedor-root/install_cppworkflowtest_noopt/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 1 partition(s)
+  ranges = headnode.build_ranges()
+/home/vpadulan/Projects/etejedor-root/install_cppworkflowtest_noopt/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 2 partition(s)
+  ranges = headnode.build_ranges()
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 15:40:50 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.431242 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/SMHiggsToZZTo4L.root}: entry range [0,42548], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.27s CPU, 0.269171s elapsed).
+Python Event Loop 1.7150418758392334
+Python Task 1.9746520519256592
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.404478 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.04s CPU, 1.04041s elapsed).
+Python Event Loop 1.4450249671936035
+Python Task 1.4462721347808838
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.338906 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.79s CPU, 0.802527s elapsed).
+Python Event Loop 1.1415519714355469
+Python Task 1.1422030925750732
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.406203 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.72s CPU, 1.72356s elapsed).
+Python Event Loop 2.129913091659546
+Python Task 2.131195068359375
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.398235 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {data/Run2012B_DoubleMuParked.root,data/Run2012C_DoubleMuParked.root}: entry range [0,5585724], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.64s CPU, 1.63103s elapsed).
+Python Event Loop 2.0293941497802734
+Python Task 2.0300300121307373
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.339321 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.83s CPU, 1.83078s elapsed).
+Python Event Loop 2.170233964920044
+Python Task 2.170898914337158
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.336820 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.75s CPU, 1.75769s elapsed).
+Python Event Loop 2.0946309566497803
+Python Task 2.09529185295105
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.403168 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.06s CPU, 1.07601s elapsed).
+Python Event Loop 1.479306936264038
+Python Task 1.4806420803070068
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.340520 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.04s CPU, 0.0451851s elapsed).
+Python Event Loop 0.38580799102783203
+Python Task 0.3864898681640625
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.340011 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.17s CPU, 0.16547s elapsed).
+Python Event Loop 0.5055840015411377
+Python Task 0.5062930583953857
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.340695 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.15s CPU, 0.14922s elapsed).
+Python Event Loop 0.49002790451049805
+Python Task 0.4907050132751465
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.339751 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.401135s elapsed).
+Python Event Loop 0.741008996963501
+Python Task 0.7416839599609375
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.339986 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 140244741457728.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.08s CPU, 0.0798481s elapsed).
+Python Event Loop 0.41993284225463867
+Python Task 0.42061686515808105
+Info in <TCanvas::Print>: pdf file higgs_4mu.pdf has been created
+Info in <TCanvas::Print>: pdf file higgs_4el.pdf has been created
+/home/vpadulan/Projects/etejedor-root/install_cppworkflowtest_noopt/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 1 partition(s)
+  ranges = headnode.build_ranges()
+/home/vpadulan/Projects/etejedor-root/install_cppworkflowtest_noopt/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 2 partition(s)
+  ranges = headnode.build_ranges()
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 15:41:11 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.444859 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/SMHiggsToZZTo4L.root}: entry range [0,42548], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.28s CPU, 0.271041s elapsed).
+Python Event Loop 1.7307939529418945
+Python Task 1.9896941184997559
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.402645 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.04s CPU, 1.043s elapsed).
+Python Event Loop 1.445770025253296
+Python Task 1.4470319747924805
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.339583 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.8s CPU, 0.805711s elapsed).
+Python Event Loop 1.1454451084136963
+Python Task 1.1461029052734375
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.405131 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.73s CPU, 1.73105s elapsed).
+Python Event Loop 2.136309862136841
+Python Task 2.1376378536224365
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.340295 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {data/Run2012B_DoubleMuParked.root,data/Run2012C_DoubleMuParked.root}: entry range [0,5585724], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.64s CPU, 1.64124s elapsed).
+Python Event Loop 1.9816620349884033
+Python Task 1.9823050498962402
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.340849 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.81s CPU, 1.81144s elapsed).
+Python Event Loop 2.152437925338745
+Python Task 2.1531009674072266
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.337808 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.78s CPU, 1.78061s elapsed).
+Python Event Loop 2.118546962738037
+Python Task 2.1191840171813965
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.401960 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.08s CPU, 1.08333s elapsed).
+Python Event Loop 1.4854109287261963
+Python Task 1.4867289066314697
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.338446 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.04s CPU, 0.045295s elapsed).
+Python Event Loop 0.3838460445404053
+Python Task 0.384552001953125
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.339467 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.17s CPU, 0.163957s elapsed).
+Python Event Loop 0.5035610198974609
+Python Task 0.5042619705200195
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.339676 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.15s CPU, 0.148786s elapsed).
+Python Event Loop 0.48859405517578125
+Python Task 0.48928093910217285
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.342456 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.402008s elapsed).
+Python Event Loop 0.7445988655090332
+Python Task 0.7452800273895264
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.340315 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139689656002368.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.08s CPU, 0.0793412s elapsed).
+Python Event Loop 0.41976499557495117
+Python Task 0.4204418659210205
+Info in <TCanvas::Print>: pdf file higgs_4mu.pdf has been created
+Info in <TCanvas::Print>: pdf file higgs_4el.pdf has been created
+/home/vpadulan/Projects/etejedor-root/install_cppworkflowtest_noopt/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 1 partition(s)
+  ranges = headnode.build_ranges()
+/home/vpadulan/Projects/etejedor-root/install_cppworkflowtest_noopt/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 2 partition(s)
+  ranges = headnode.build_ranges()
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 15:41:33 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.432507 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/SMHiggsToZZTo4L.root}: entry range [0,42548], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.26s CPU, 0.269247s elapsed).
+Python Event Loop 1.7161219120025635
+Python Task 1.97489595413208
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.403875 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.03s CPU, 1.03531s elapsed).
+Python Event Loop 1.4392950534820557
+Python Task 1.4405288696289062
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.339258 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.8s CPU, 0.80065s elapsed).
+Python Event Loop 1.1400392055511475
+Python Task 1.140693187713623
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.405358 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.74s CPU, 1.74644s elapsed).
+Python Event Loop 2.1519429683685303
+Python Task 2.153212070465088
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.341770 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {data/Run2012B_DoubleMuParked.root,data/Run2012C_DoubleMuParked.root}: entry range [0,5585724], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.66s CPU, 1.65458s elapsed).
+Python Event Loop 1.9965040683746338
+Python Task 1.9971439838409424
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.340083 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.83s CPU, 1.82637s elapsed).
+Python Event Loop 2.166593074798584
+Python Task 2.167236089706421
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.339061 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.79s CPU, 1.78259s elapsed).
+Python Event Loop 2.1217851638793945
+Python Task 2.1224539279937744
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.409638 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.08s CPU, 1.07762s elapsed).
+Python Event Loop 1.4873731136322021
+Python Task 1.4888279438018799
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.339646 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.05s CPU, 0.0445671s elapsed).
+Python Event Loop 0.3843050003051758
+Python Task 0.3849780559539795
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.340694 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.16s CPU, 0.166094s elapsed).
+Python Event Loop 0.506889820098877
+Python Task 0.5075621604919434
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.341360 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.16s CPU, 0.149638s elapsed).
+Python Event Loop 0.49112701416015625
+Python Task 0.4918341636657715
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.343323 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.4s CPU, 0.402481s elapsed).
+Python Event Loop 0.7459361553192139
+Python Task 0.7466230392456055
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.341298 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 139665283295040.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.09s CPU, 0.0799282s elapsed).
+Python Event Loop 0.42134714126586914
+Python Task 0.4220311641693115
+Info in <TCanvas::Print>: pdf file higgs_4mu.pdf has been created
+Info in <TCanvas::Print>: pdf file higgs_4el.pdf has been created
+/home/vpadulan/Projects/etejedor-root/install_cppworkflowtest_noopt/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 1 partition(s)
+  ranges = headnode.build_ranges()
+/home/vpadulan/Projects/etejedor-root/install_cppworkflowtest_noopt/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 2 partition(s)
+  ranges = headnode.build_ranges()
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 15:41:54 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 1.434868 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/SMHiggsToZZTo4L.root}: entry range [0,42548], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.27s CPU, 0.269678s elapsed).
+Python Event Loop 1.7191221714019775
+Python Task 1.9786450862884521
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.402908 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.04s CPU, 1.03555s elapsed).
+Python Event Loop 1.4385910034179688
+Python Task 1.4398400783538818
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.341433 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4mu.root}: entry range [0,344502], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.79s CPU, 0.794619s elapsed).
+Python Event Loop 1.1362040042877197
+Python Task 1.1368660926818848
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.405230 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleMuParked.root}: entry range [0,2360658], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.71s CPU, 1.719s elapsed).
+Python Event Loop 2.1243700981140137
+Python Task 2.1256470680236816
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.345131 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events,Events} in files {data/Run2012B_DoubleMuParked.root,data/Run2012C_DoubleMuParked.root}: entry range [0,5585724], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.64s CPU, 1.64384s elapsed).
+Python Event Loop 1.9891149997711182
+Python Task 1.9897809028625488
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.339024 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.79s CPU, 1.79727s elapsed).
+Python Event Loop 2.1364259719848633
+Python Task 2.1370930671691895
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.339799 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleMuParked.root}: entry range [0,3225065], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.75s CPU, 1.75714s elapsed).
+Python Event Loop 2.0970680713653564
+Python Task 2.0976991653442383
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.402432 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (1.06s CPU, 1.06829s elapsed).
+Python Event Loop 1.4708449840545654
+Python Task 1.4721570014953613
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.342563 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/ZZTo4e.root}: entry range [0,200830], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.05s CPU, 0.0457289s elapsed).
+Python Event Loop 0.3883960247039795
+Python Task 0.3891160488128662
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.343596 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.16s CPU, 0.166914s elapsed).
+Python Event Loop 0.5106399059295654
+Python Task 0.5113458633422852
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.346655 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012B_DoubleElectron.root}: entry range [0,293955], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.15s CPU, 0.151886s elapsed).
+Python Event Loop 0.49866199493408203
+Python Task 0.4993290901184082
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.343240 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.41s CPU, 0.401795s elapsed).
+Python Event Loop 0.7451589107513428
+Python Task 0.7458560466766357
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.342489 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {Events} in files {data/Run2012C_DoubleElectron.root}: entry range [0,424530], using slot 0 in thread 140694913587008.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest_noopt/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (0.08s CPU, 0.0796888s elapsed).
+Python Event Loop 0.42228102684020996
+Python Task 0.4229700565338135
+Info in <TCanvas::Print>: pdf file higgs_4mu.pdf has been created
+Info in <TCanvas::Print>: pdf file higgs_4el.pdf has been created
+/home/vpadulan/Projects/etejedor-root/install_cppworkflowtest_noopt/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 1 partition(s)
+  ranges = headnode.build_ranges()
+/home/vpadulan/Projects/etejedor-root/install_cppworkflowtest_noopt/lib/DistRDF/Backends/Base.py:143: UserWarning: Number of partitions is greater than number of clusters in the dataset. Using 2 partition(s)
+  ranges = headnode.build_ranges()
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: d

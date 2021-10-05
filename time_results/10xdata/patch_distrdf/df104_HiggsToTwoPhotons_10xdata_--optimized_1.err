@@ -1,0 +1,185 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 22:44:02 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_0_822955_cxx.so
+C++ Compilation 7.188512086868286
+input_line_115:10:7: warning: ignoring return value of function declared with 'nodiscard' attribute [-Wunused-result]
+      ((const string*)obj)->empty();
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.471690 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,10547109], using slot 0 in thread 139902809745216.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (24.44s CPU, 24.475s elapsed).
+C++ Event Loop 26.990808963775635
+C++ Task 34.60125803947449
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_1_822955_cxx.so
+C++ Compilation 7.140566110610962
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.598953 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,4974679], using slot 0 in thread 139902809745216.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (11.75s CPU, 11.7704s elapsed).
+C++ Event Loop 12.36942720413208
+C++ Task 19.565811157226562
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_2_822955_cxx.so
+C++ Compilation 7.108273983001709
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.836114 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,77984239], using slot 0 in thread 139902809745216.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (96.09s CPU, 96.2242s elapsed).
+C++ Event Loop 97.06044793128967
+C++ Task 104.2260890007019
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 22:46:45 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_0_823330_cxx.so
+C++ Compilation 7.1720380783081055
+input_line_115:10:7: warning: ignoring return value of function declared with 'nodiscard' attribute [-Wunused-result]
+      ((const string*)obj)->empty();
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.476335 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,10547109], using slot 0 in thread 139711656613696.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (24.49s CPU, 24.525s elapsed).
+C++ Event Loop 27.045328855514526
+C++ Task 34.63982796669006
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_1_823330_cxx.so
+C++ Compilation 7.11871600151062
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.602522 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,4974679], using slot 0 in thread 139711656613696.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (11.73s CPU, 11.7506s elapsed).
+C++ Event Loop 12.353204011917114
+C++ Task 19.527638912200928
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_2_823330_cxx.so
+C++ Compilation 7.102355003356934
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.839503 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,77984239], using slot 0 in thread 139711656613696.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (94.89s CPU, 95.0109s elapsed).
+C++ Event Loop 95.85052704811096
+C++ Task 103.01017498970032
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 22:49:28 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_0_823683_cxx.so
+C++ Compilation 7.191436052322388
+input_line_115:10:7: warning: ignoring return value of function declared with 'nodiscard' attribute [-Wunused-result]
+      ((const string*)obj)->empty();
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.482489 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,10547109], using slot 0 in thread 139913931470656.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (24.39s CPU, 24.4228s elapsed).
+C++ Event Loop 26.949604988098145
+C++ Task 34.56789779663086
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_1_823683_cxx.so
+C++ Compilation 7.118450164794922
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.602593 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,4974679], using slot 0 in thread 139913931470656.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (11.74s CPU, 11.7528s elapsed).
+C++ Event Loop 12.355541944503784
+C++ Task 19.530301809310913
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_2_823683_cxx.so
+C++ Compilation 7.072916030883789
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.840351 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,77984239], using slot 0 in thread 139913931470656.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (94.08s CPU, 94.2125s elapsed).
+C++ Event Loop 95.05292415618896
+C++ Task 102.18353199958801
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 22:52:09 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_0_824062_cxx.so
+C++ Compilation 7.189122915267944
+input_line_115:10:7: warning: ignoring return value of function declared with 'nodiscard' attribute [-Wunused-result]
+      ((const string*)obj)->empty();
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.475636 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,10547109], using slot 0 in thread 140354121840448.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (24.73s CPU, 24.7617s elapsed).
+C++ Event Loop 27.281718969345093
+C++ Task 34.89566612243652
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_1_824062_cxx.so
+C++ Compilation 7.122967958450317
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.598869 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,4974679], using slot 0 in thread 140354121840448.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (11.85s CPU, 11.8732s elapsed).
+C++ Event Loop 12.4722158908844
+C++ Task 19.650776863098145
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_2_824062_cxx.so
+C++ Compilation 7.098531007766724
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.837991 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,77984239], using slot 0 in thread 140354121840448.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (92.37s CPU, 92.4873s elapsed).
+C++ Event Loop 93.32544612884521
+C++ Task 100.48124408721924
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/vpadulan/Programs/mambaforge/envs/rootdev-py38/lib/python3.8/site-packages/pyspark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/10/04 22:54:50 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_0_824508_cxx.so
+C++ Compilation 7.181174993515015
+input_line_115:10:7: warning: ignoring return value of function declared with 'nodiscard' attribute [-Wunused-result]
+      ((const string*)obj)->empty();
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 2.480310 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root,data/mc_343981.ggH125_gamgam.GamGam.root}: entry range [0,10547109], using slot 0 in thread 140545263404864.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (24.36s CPU, 24.378s elapsed).
+C++ Event Loop 26.902586936950684
+C++ Task 34.50533699989319
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_1_824508_cxx.so
+C++ Compilation 7.1487438678741455
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.601917 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root,data/mc_345041.VBFH125_gamgam.GamGam.root}: entry range [0,4974679], using slot 0 in thread 140545263404864.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (11.7s CPU, 11.7162s elapsed).
+C++ Event Loop 12.31820797920227
+C++ Task 19.522951126098633
+Info in <TUnixSystem::ACLiC>: creating shared library /home/vpadulan/Projects/DistRDF_benchmarks/rdfworkflow_2_824508_cxx.so
+C++ Compilation 7.117600917816162
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:738 in void ROOT::Detail::RDF::RLoopManager::Run()>: Starting event loop number 0.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:713 in void ROOT::Detail::RDF::RLoopManager::Jit()>: Just-in-time compilation phase completed in 0.839226 seconds.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:480 in void ROOT::Detail::RDF::RLoopManager::RunTreeReader()>: Processing trees {mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini,mini} in files {data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root,data/data_A.GamGam.root,data/data_B.GamGam.root,data/data_C.GamGam.root,data/data_D.GamGam.root}: entry range [0,77984239], using slot 0 in thread 140545263404864.
+Info in <[ROOT.RDF] Info /home/vpadulan/Projects/etejedor-root/cppworkflowtest/tree/dataframe/src/RLoopManager.cxx:762 in void ROOT::Detail::RDF::RLoopManager::Run()>: Finished event loop number 0 (94.57s CPU, 94.7017s elapsed).
+C++ Event Loop 95.54106998443604
+C++ Task 102.71607494354248
+Info in <TCanvas::Print>: pdf file HiggsToTwoPhotons.pdf has been created

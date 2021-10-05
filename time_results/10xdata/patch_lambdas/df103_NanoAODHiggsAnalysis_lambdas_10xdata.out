@@ -1,0 +1,35 @@
+Compiling benchmark df103_NanoAODHiggsAnalysis_lambdas_10xdata
+Time to compile benchmark: 7.40992
+Compiling benchmark df103_NanoAODHiggsAnalysis_lambdas_10xdata
+Time to compile benchmark: 7.37600
+Compiling benchmark df103_NanoAODHiggsAnalysis_lambdas_10xdata
+Time to compile benchmark: 7.39539
+Compiling benchmark df103_NanoAODHiggsAnalysis_lambdas_10xdata
+Time to compile benchmark: 7.38117
+Compiling benchmark df103_NanoAODHiggsAnalysis_lambdas_10xdata
+Time to compile benchmark: 7.38912
+Event loop df_sig_4l: 1.09 s
+Event loop df_bkg_4mu: 7.12 s
+Event loop df_data_doublemu: 21.52 s
+Event loop df_bkg_4el: 4.45 s
+Event loop df_data_doubleel: 2.35 s
+Event loop df_sig_4l: 1.09 s
+Event loop df_bkg_4mu: 7.09 s
+Event loop df_data_doublemu: 21.55 s
+Event loop df_bkg_4el: 4.45 s
+Event loop df_data_doubleel: 2.35 s
+Event loop df_sig_4l: 1.09 s
+Event loop df_bkg_4mu: 7.12 s
+Event loop df_data_doublemu: 21.46 s
+Event loop df_bkg_4el: 4.44 s
+Event loop df_data_doubleel: 2.36 s
+Event loop df_sig_4l: 1.09 s
+Event loop df_bkg_4mu: 7.13 s
+Event loop df_data_doublemu: 21.49 s
+Event loop df_bkg_4el: 4.44 s
+Event loop df_data_doubleel: 2.35 s
+Event loop df_sig_4l: 1.09 s
+Event loop df_bkg_4mu: 7.12 s
+Event loop df_data_doublemu: 21.50 s
+Event loop df_bkg_4el: 4.46 s
+Event loop df_data_doubleel: 2.38 s

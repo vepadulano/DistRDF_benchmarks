@@ -1,8 +1,16 @@
 Compiling benchmark df104_HiggsToTwoPhotons_lambdas
-Time to compile benchmark: 5.25624
-Event loop ggH: 2.26 s
-Event loop VBF: 1.08 s
-Event loop data: 8.99 s
+Time to compile benchmark: 5.08882
+Compiling benchmark df104_HiggsToTwoPhotons_lambdas
+Time to compile benchmark: 5.09141
+Compiling benchmark df104_HiggsToTwoPhotons_lambdas
+Time to compile benchmark: 5.09476
+Compiling benchmark df104_HiggsToTwoPhotons_lambdas
+Time to compile benchmark: 5.07953
+Compiling benchmark df104_HiggsToTwoPhotons_lambdas
+Time to compile benchmark: 5.09294
+Event loop ggH: 2.14 s
+Event loop VBF: 1.01 s
+Event loop data: 8.15 s
  FCN=19.9699 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
                      EDM=1.4731e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
   EXT PARAMETER                APPROXIMATE        STEP         FIRST   
@@ -14,9 +22,9 @@ Event loop data: 8.99 s
    5  p4           1.19100e+02     fixed    
    6  p5           1.25000e+02     fixed    
    7  p6           2.39000e+00     fixed    
-Event loop ggH: 2.24 s
-Event loop VBF: 1.06 s
-Event loop data: 9.06 s
+Event loop ggH: 2.12 s
+Event loop VBF: 1.01 s
+Event loop data: 8.15 s
  FCN=19.9699 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
                      EDM=1.4731e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
   EXT PARAMETER                APPROXIMATE        STEP         FIRST   
@@ -28,9 +36,9 @@ Event loop data: 9.06 s
    5  p4           1.19100e+02     fixed    
    6  p5           1.25000e+02     fixed    
    7  p6           2.39000e+00     fixed    
-Event loop ggH: 2.27 s
-Event loop VBF: 1.06 s
-Event loop data: 9.03 s
+Event loop ggH: 2.12 s
+Event loop VBF: 1.01 s
+Event loop data: 8.16 s
  FCN=19.9699 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
                      EDM=1.4731e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
   EXT PARAMETER                APPROXIMATE        STEP         FIRST   
@@ -42,9 +50,9 @@ Event loop data: 9.03 s
    5  p4           1.19100e+02     fixed    
    6  p5           1.25000e+02     fixed    
    7  p6           2.39000e+00     fixed    
-Event loop ggH: 2.23 s
-Event loop VBF: 1.07 s
-Event loop data: 8.98 s
+Event loop ggH: 2.14 s
+Event loop VBF: 1.00 s
+Event loop data: 8.13 s
  FCN=19.9699 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
                      EDM=1.4731e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
   EXT PARAMETER                APPROXIMATE        STEP         FIRST   
@@ -56,9 +64,9 @@ Event loop data: 8.98 s
    5  p4           1.19100e+02     fixed    
    6  p5           1.25000e+02     fixed    
    7  p6           2.39000e+00     fixed    
-Event loop ggH: 2.25 s
-Event loop VBF: 1.07 s
-Event loop data: 9.05 s
+Event loop ggH: 2.15 s
+Event loop VBF: 1.01 s
+Event loop data: 8.10 s
  FCN=19.9699 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
                      EDM=1.4731e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
   EXT PARAMETER                APPROXIMATE        STEP         FIRST   

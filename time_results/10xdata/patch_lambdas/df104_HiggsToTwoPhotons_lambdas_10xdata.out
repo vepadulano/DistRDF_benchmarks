@@ -1,0 +1,80 @@
+Compiling benchmark df104_HiggsToTwoPhotons_lambdas_10xdata
+Time to compile benchmark: 5.12106
+Compiling benchmark df104_HiggsToTwoPhotons_lambdas_10xdata
+Time to compile benchmark: 5.11518
+Compiling benchmark df104_HiggsToTwoPhotons_lambdas_10xdata
+Time to compile benchmark: 5.14230
+Compiling benchmark df104_HiggsToTwoPhotons_lambdas_10xdata
+Time to compile benchmark: 5.13516
+Compiling benchmark df104_HiggsToTwoPhotons_lambdas_10xdata
+Time to compile benchmark: 5.12255
+Event loop ggH: 21.29 s
+Event loop VBF: 10.05 s
+Event loop data: 81.91 s
+ FCN=266.796 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
+                     EDM=1.11008e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.54865e+05   2.27850e+02   2.03816e-01   1.74282e-09
+   2  p1          -1.57848e+04   2.46074e+00   3.76339e-03  -3.04148e-07
+   3  p2           1.00897e+02   1.69518e-02   2.40556e-05  -2.53715e-05
+   4  p3          -2.20381e-01   8.43785e-05   5.25429e-08   6.00263e-03
+   5  p4           1.19100e+02     fixed    
+   6  p5           1.25000e+02     fixed    
+   7  p6           2.39000e+00     fixed    
+Event loop ggH: 21.03 s
+Event loop VBF: 10.09 s
+Event loop data: 80.99 s
+ FCN=266.796 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
+                     EDM=1.11008e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.54865e+05   2.27850e+02   2.03816e-01   1.74282e-09
+   2  p1          -1.57848e+04   2.46074e+00   3.76339e-03  -3.04148e-07
+   3  p2           1.00897e+02   1.69518e-02   2.40556e-05  -2.53715e-05
+   4  p3          -2.20381e-01   8.43785e-05   5.25429e-08   6.00263e-03
+   5  p4           1.19100e+02     fixed    
+   6  p5           1.25000e+02     fixed    
+   7  p6           2.39000e+00     fixed    
+Event loop ggH: 21.23 s
+Event loop VBF: 10.58 s
+Event loop data: 81.07 s
+ FCN=266.796 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
+                     EDM=1.11008e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.54865e+05   2.27850e+02   2.03816e-01   1.74282e-09
+   2  p1          -1.57848e+04   2.46074e+00   3.76339e-03  -3.04148e-07
+   3  p2           1.00897e+02   1.69518e-02   2.40556e-05  -2.53715e-05
+   4  p3          -2.20381e-01   8.43785e-05   5.25429e-08   6.00263e-03
+   5  p4           1.19100e+02     fixed    
+   6  p5           1.25000e+02     fixed    
+   7  p6           2.39000e+00     fixed    
+Event loop ggH: 21.12 s
+Event loop VBF: 10.05 s
+Event loop data: 81.88 s
+ FCN=266.796 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
+                     EDM=1.11008e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.54865e+05   2.27850e+02   2.03816e-01   1.74282e-09
+   2  p1          -1.57848e+04   2.46074e+00   3.76339e-03  -3.04148e-07
+   3  p2           1.00897e+02   1.69518e-02   2.40556e-05  -2.53715e-05
+   4  p3          -2.20381e-01   8.43785e-05   5.25429e-08   6.00263e-03
+   5  p4           1.19100e+02     fixed    
+   6  p5           1.25000e+02     fixed    
+   7  p6           2.39000e+00     fixed    
+Event loop ggH: 21.26 s
+Event loop VBF: 10.12 s
+Event loop data: 81.71 s
+ FCN=266.796 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
+                     EDM=1.11008e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.54865e+05   2.27850e+02   2.03816e-01   1.74282e-09
+   2  p1          -1.57848e+04   2.46074e+00   3.76339e-03  -3.04148e-07
+   3  p2           1.00897e+02   1.69518e-02   2.40556e-05  -2.53715e-05
+   4  p3          -2.20381e-01   8.43785e-05   5.25429e-08   6.00263e-03
+   5  p4           1.19100e+02     fixed    
+   6  p5           1.25000e+02     fixed    
+   7  p6           2.39000e+00     fixed    

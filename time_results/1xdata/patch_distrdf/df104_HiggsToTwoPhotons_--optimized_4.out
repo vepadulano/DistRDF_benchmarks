@@ -9,6 +9,9 @@
    5  p4           1.19100e+02     fixed    
    6  p5           1.25000e+02     fixed    
    7  p6           2.39000e+00     fixed    
+	Event loop ggh: 16.06535792350769 s
+	Event loop vbf: 10.847208023071289 s
+	Event loop data: 19.57617497444153 s
  FCN=19.9699 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
                      EDM=1.4731e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
   EXT PARAMETER                APPROXIMATE        STEP         FIRST   
@@ -20,6 +23,9 @@
    5  p4           1.19100e+02     fixed    
    6  p5           1.25000e+02     fixed    
    7  p6           2.39000e+00     fixed    
+	Event loop ggh: 16.059487104415894 s
+	Event loop vbf: 10.879632949829102 s
+	Event loop data: 19.690274000167847 s
  FCN=19.9699 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
                      EDM=1.4731e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
   EXT PARAMETER                APPROXIMATE        STEP         FIRST   
@@ -31,6 +37,9 @@
    5  p4           1.19100e+02     fixed    
    6  p5           1.25000e+02     fixed    
    7  p6           2.39000e+00     fixed    
+	Event loop ggh: 16.058689832687378 s
+	Event loop vbf: 10.838071823120117 s
+	Event loop data: 19.49570608139038 s
  FCN=19.9699 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
                      EDM=1.4731e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
   EXT PARAMETER                APPROXIMATE        STEP         FIRST   
@@ -42,6 +51,9 @@
    5  p4           1.19100e+02     fixed    
    6  p5           1.25000e+02     fixed    
    7  p6           2.39000e+00     fixed    
+	Event loop ggh: 16.145007848739624 s
+	Event loop vbf: 10.896224975585938 s
+	Event loop data: 19.796988010406494 s
  FCN=19.9699 FROM HESSE     STATUS=NOT POSDEF     23 CALLS         158 TOTAL
                      EDM=1.4731e-12    STRATEGY= 1      ERR MATRIX NOT POS-DEF
   EXT PARAMETER                APPROXIMATE        STEP         FIRST   
@@ -53,18 +65,6 @@
    5  p4           1.19100e+02     fixed    
    6  p5           1.25000e+02     fixed    
    7  p6           2.39000e+00     fixed    
-	Event loop ggh: 16.318519830703735 s
-	Event loop vbf: 10.987681150436401 s
-	Event loop data: 20.935861825942993 s
-	Event loop ggh: 5.156996965408325 s
-	Event loop vbf: 3.7535271644592285 s
-	Event loop data: 13.604963064193726 s
-	Event loop ggh: 5.168788909912109 s
-	Event loop vbf: 3.7754950523376465 s
-	Event loop data: 13.560159921646118 s
-	Event loop ggh: 5.166316032409668 s
-	Event loop vbf: 3.7520761489868164 s
-	Event loop data: 13.679219007492065 s
-	Event loop ggh: 5.177443027496338 s
-	Event loop vbf: 3.7844090461730957 s
-	Event loop data: 13.54057788848877 s
+	Event loop ggh: 16.028756141662598 s
+	Event loop vbf: 10.827375173568726 s
+	Event loop data: 19.4502010345459 s

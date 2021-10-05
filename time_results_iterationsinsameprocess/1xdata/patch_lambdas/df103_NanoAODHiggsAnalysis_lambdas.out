@@ -1,0 +1,27 @@
+Compiling benchmark df103_NanoAODHiggsAnalysis_lambdas
+Time to compile benchmark: 7.24295
+Event loop df_sig_4l: 0.12 s
+Event loop df_bkg_4mu: 0.75 s
+Event loop df_data_doublemu: 4.44 s
+Event loop df_bkg_4el: 0.47 s
+Event loop df_data_doubleel: 0.50 s
+Event loop df_sig_4l: 0.12 s
+Event loop df_bkg_4mu: 0.74 s
+Event loop df_data_doublemu: 4.43 s
+Event loop df_bkg_4el: 0.47 s
+Event loop df_data_doubleel: 0.50 s
+Event loop df_sig_4l: 0.12 s
+Event loop df_bkg_4mu: 0.74 s
+Event loop df_data_doublemu: 4.47 s
+Event loop df_bkg_4el: 0.47 s
+Event loop df_data_doubleel: 0.50 s
+Event loop df_sig_4l: 0.12 s
+Event loop df_bkg_4mu: 0.75 s
+Event loop df_data_doublemu: 4.42 s
+Event loop df_bkg_4el: 0.47 s
+Event loop df_data_doubleel: 0.50 s
+Event loop df_sig_4l: 0.12 s
+Event loop df_bkg_4mu: 0.75 s
+Event loop df_data_doublemu: 4.46 s
+Event loop df_bkg_4el: 0.47 s
+Event loop df_data_doubleel: 0.50 s
