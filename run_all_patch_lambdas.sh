@@ -1,5 +1,9 @@
 #!/bin/bash
 
+source $HOME/.bashrc
+conda activate rootdev-py38
+source ../etejedor-root/install_cppworkflowtest/bin/thisroot.sh
+
 TIMES_DIR=time_results/1xdata/patch_lambdas
 NTESTS=5
 BENCHMARK_DIR=benchmarks
@@ -8,6 +12,7 @@ mkdir -p $TIMES_DIR
 
 for benchmark_name in df102_NanoAODDimuonAnalysis_lambdas df103_NanoAODHiggsAnalysis_lambdas df104_HiggsToTwoPhotons_lambdas
 do
+  TIME_FILENAME=$TIMES_DIR/${benchmark_name}
   for j in `seq $NTESTS`
   do
     echo "Compiling benchmark $benchmark_name" >> ${TIME_FILENAME}.out
