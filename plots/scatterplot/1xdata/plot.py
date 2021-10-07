@@ -4,6 +4,10 @@ import os
 import pandas
 
 DATA_DIR = "../../../table_results/1xdata/"
+DATASETS_CODES = {"dimuon_data": 1, "df_sig_4l": 2, "df_bkg_4mu": 3, "df_data_doublemu": 4,
+                  "df_bkg_4el": 5, "df_data_doubleel": 6, "ggh": 7, "vbf": 8, "data": 9}
+GRAPHS_CODES = {"df102_1": 1, "df103_1": 2, "df103_2": 3, "df103_3": 4,
+                "df103_4": 5, "df103_5": 6, "df104_1": 7, "df104_2": 8, "df104_3": 9}
 
 
 def combine_datasets():
@@ -22,7 +26,7 @@ def create_dataset_toplot():
     results["test_type_full"] = results.build_type + "_" + results.test_type
     getvalue_trigger_results = results[results["time_type"] == "getvalue_trigger"]
     toplot = getvalue_trigger_results.groupby(["dataset_name", "test_type_full"]).mean().reset_index()
-    toplot["dataset_code"] = pandas.factorize(toplot["dataset_name"])[0] + 1
+    toplot["dataset_code"] = toplot["dataset_name"].replace(DATASETS_CODES)
     toplot.to_csv("toplot.csv", index=None)
 
 
@@ -38,7 +42,7 @@ def scatterplot():
     height = 1000
     width = 1000
     gtitle = "Time to plot - all benchmarks"
-    xtitle = "Dataset"
+    xtitle = "Graph"
     ytitle = "Time [s]"
 
     ROOT.gStyle.SetOptTitle(ROOT.kFALSE)
@@ -57,8 +61,13 @@ def scatterplot():
 
     mg.SetTitle("{};{};{}".format(gtitle, xtitle, ytitle))
     mg.Draw("A")
+    xaxis = mg.GetXaxis()
+    xaxis.SetTickLength(0)
+    for i, name in enumerate(GRAPHS_CODES.keys()):
+        xaxis.ChangeLabel(i+1, 60, 0.019, -1, -1, -1, name)
+    xaxis.SetTitleOffset(1.5)
 
-    d.BuildLegend(0.1, 0.7, 0.5, 0.9)
+    d.BuildLegend(0.5, 0.7, 0.9, 0.9)
     d.SaveAs("scatterplot_alldf.png")
 
 
