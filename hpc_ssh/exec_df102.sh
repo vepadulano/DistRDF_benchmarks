@@ -12,6 +12,6 @@ echo "- nprocs: $nprocs"
 echo "- nfiles: $nfiles"
 echo "- npartitions: $npartitions"
 
-killall python3
-sleep 2
+#killall python3
+#sleep 2
 python3 /hpcscratch/user/etejedor/DistRDF_tests/df102.py "${parsed_hostnames}" $nprocs $nfiles $npartitions $ntests
